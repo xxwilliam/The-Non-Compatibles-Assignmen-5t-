@@ -6,7 +6,7 @@
 <h2>Absolute URLs</h2>
 
 
-<a href="https://www.xxwilliam.github.io/assignment-1/" target="_blank">visit assignment-1 /!</a> 
+<a href="https://www.xxwilliam.github.io/info-about-me-2//" target="_blank">visit info-about-me-2/ /!</a> 
 
 
 </body>
