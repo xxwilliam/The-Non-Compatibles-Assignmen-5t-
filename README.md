@@ -5,8 +5,8 @@
 
 <h2>Absolute URLs</h2>
 
+<a href="about.html" title="info-about-me">info-about-me</a>
 
-<a href="https://www.xxwilliam.github.io/info-about-me-2//" target="_blank">visit info-about-me-2/ /!</a> 
 
 
 </body>
